@@ -1,0 +1,49 @@
+body{
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    line-height: 1.6;
+    background-color: #f9f9f9;
+    color: #333;
+}
+header{
+    background: #004080;
+    color: white;
+    text-align: center;
+    padding: 2rem 0;
+}
+nav{
+    text-align: center;
+    padding: 2rem 0;
+    font-size: larger;
+    font-weight: bold;
+    color: #333;
+}
+a{
+    text-decoration: none;
+    color: #333;
+}
+a:hover{
+    color: #004080;
+}
+section{
+    padding: 2rem;
+    max-width: 900px;
+    margin: auto;
+}
+img{
+    height: 600px;
+    width: 900px;
+}
+#contact a{
+    text-align: center;
+    text-decoration: none;
+   
+}
+footer{
+    text-align: center;
+    background:#004080 ;
+    color: white;
+    padding: 1rem 0;
+    margin-top: 2rem;
+}
