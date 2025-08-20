@@ -39,7 +39,9 @@ img{
 #contact a{
     text-align: center;
     text-decoration: none;
-   
+}
+.demo a{
+    text-decoration: underline;
 }
 footer{
     text-align: center;
